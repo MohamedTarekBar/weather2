@@ -1,0 +1,13 @@
+:root {
+    --main-color: #009ad8;
+    --font-color: #bfc1c7;
+    --header-one-color: #2d303d;
+    --header-two-color: #222531;
+    --bg-one-color: #323545;
+    --bg-two-color: #262936;
+    --bg-three-color: rgba(0, 0, 0, 0.1)    ;
+    --nav-bg-color: #1d202a;
+    --nav-li-border: 1px solid rgba(255, 255, 255, 0.1);
+    --input-border-radius: 30px
+}
+
