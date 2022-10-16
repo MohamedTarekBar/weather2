@@ -1,4 +1,4 @@
-import '/scripts/Lib/linkLib.js';
+import './Lib/linkLib.js';
 import WeatherApi from './api.js';
 var api = new WeatherApi ();
 
